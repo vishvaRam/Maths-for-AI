@@ -1,2 +1,6 @@
 numpy
 ruff
+ipywidgets
+seaborn
+matplotlib
+plotly
