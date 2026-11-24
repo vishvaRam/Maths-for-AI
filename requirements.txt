@@ -1,5 +1,6 @@
 numpy
 ruff
+ipykernel
 ipywidgets
 seaborn
 matplotlib
